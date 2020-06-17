@@ -1,1 +1,4 @@
-# google_ads_time_bid_adjust
+# Google Ads Script to provide hourly bidding.
+
+### no support ###
+### you can always contribute by making a Pull Request to this git ###
